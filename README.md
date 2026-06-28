@@ -1,8 +1,8 @@
-# ⏱️ Timer App
+#  Timer App
 
 Une application de **chronomètre moderne** développée avec **React**. Elle permet de démarrer, mettre en pause et réinitialiser un timer, tout en affichant l'heure actuelle en temps réel (format français).
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 * ▶️ Démarrer le chronomètre
 * ⏸️ Mettre en pause
@@ -19,6 +19,7 @@ Une application de **chronomètre moderne** développée avec **React**. Elle pe
 * CSS
 * Lucide React (icônes)
 
+
 ## 📂 Structure du projet
 
 ```text
@@ -31,18 +32,11 @@ src/
 └── main.jsx
 ```
 
-## 🚀 Installation
-
-Clone le dépôt :
-
-```bash
-git clone https://github.com/VOTRE-PSEUDO/timer-app.git
-```
-
+##  Installation
 Entre dans le dossier :
 
 ```bash
-cd timer-app
+cd timer-project
 ```
 
 Installe les dépendances :
@@ -71,27 +65,9 @@ Ajoute ici une capture d'écran de ton projet :
 ![Aperçu du projet](./screenshot.png)
 ```
 
-## 🎮 Utilisation
+## Utilisation
 
 * Cliquez sur **Play** pour démarrer le chronomètre.
 * Cliquez sur **Pause** pour arrêter le compteur.
 * Cliquez sur **Reset** pour remettre le chronomètre à **00:00**.
 * L'heure actuelle est affichée en haut de la page et se met à jour automatiquement chaque seconde.
-
-## 💡 Améliorations possibles
-
-* Ajouter des heures (HH:MM:SS)
-* Sauvegarde du timer avec LocalStorage
-* Mode sombre / clair
-* Choix du thème
-* Sons de démarrage et d'arrêt
-* Compte à rebours (Countdown)
-* Gestion de plusieurs chronomètres
-
-## 📄 Licence
-
-Ce projet est distribué sous la licence **MIT**.
-
----
-
-Développé avec ❤️ en React.
