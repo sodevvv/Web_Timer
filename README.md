@@ -1,16 +1,97 @@
-# React + Vite
+# ⏱️ Timer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Une application de **chronomètre moderne** développée avec **React**. Elle permet de démarrer, mettre en pause et réinitialiser un timer, tout en affichant l'heure actuelle en temps réel (format français).
 
-Currently, two official plugins are available:
+## ✨ Fonctionnalités
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* ▶️ Démarrer le chronomètre
+* ⏸️ Mettre en pause
+* 🔄 Réinitialiser le temps
+* 🕒 Affichage de l'heure française en temps réel
+* 🌌 Fond animé avec un effet d'étoiles
+* 🎨 Interface simple et moderne
+* 📱 Design responsive
 
-## React Compiler
+## 🛠️ Technologies utilisées
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript (ES6+)
+* CSS
+* Lucide React (icônes)
 
-## Expanding the ESLint configuration
+## 📂 Structure du projet
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+src/
+├── components/
+│   └── StarField.jsx
+├── App.jsx
+├── App.css
+├── animations.css
+└── main.jsx
+```
+
+## 🚀 Installation
+
+Clone le dépôt :
+
+```bash
+git clone https://github.com/VOTRE-PSEUDO/timer-app.git
+```
+
+Entre dans le dossier :
+
+```bash
+cd timer-app
+```
+
+Installe les dépendances :
+
+```bash
+npm install
+```
+
+Lance le serveur de développement :
+
+```bash
+npm run dev
+```
+
+L'application sera disponible sur :
+
+```text
+http://localhost:5173
+```
+
+## 📸 Aperçu
+
+Ajoute ici une capture d'écran de ton projet :
+
+```md
+![Aperçu du projet](./screenshot.png)
+```
+
+## 🎮 Utilisation
+
+* Cliquez sur **Play** pour démarrer le chronomètre.
+* Cliquez sur **Pause** pour arrêter le compteur.
+* Cliquez sur **Reset** pour remettre le chronomètre à **00:00**.
+* L'heure actuelle est affichée en haut de la page et se met à jour automatiquement chaque seconde.
+
+## 💡 Améliorations possibles
+
+* Ajouter des heures (HH:MM:SS)
+* Sauvegarde du timer avec LocalStorage
+* Mode sombre / clair
+* Choix du thème
+* Sons de démarrage et d'arrêt
+* Compte à rebours (Countdown)
+* Gestion de plusieurs chronomètres
+
+## 📄 Licence
+
+Ce projet est distribué sous la licence **MIT**.
+
+---
+
+Développé avec ❤️ en React.
