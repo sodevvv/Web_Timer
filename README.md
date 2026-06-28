@@ -62,7 +62,7 @@ http://localhost:5173
 Ajoute ici une capture d'écran de ton projet :
 
 ```md
-![Aperçu du projet](./screenshot.png)
+![Aperçu du projet](./image.png)
 ```
 
 ## Utilisation
