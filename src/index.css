@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@900&display=swap");
+:root {
+    --font-Montserrat: "Montserrat", sans-serif;
+    --font-Poppins: "Poppins", sans-serif;
+    --white: #ffffff;
+    --black: #000000;
+    --gray-50: #0a0a0a;
+    --gray-100: #1a1a1a;
+    --gray-200: #2a2a2a;
+    --gray-300: #3a3a3a;
+    --gray-400: #6a6a6a;
+    --gray-500: #8a8a8a;
+    --gray-600: #aaaaaa;
+    --accent-blue: #2563eb;
+    --accent-text: #b3c0ce;
+    --hover-button-effect: rgba(255, 255, 255, .15);
+    --bg-color: #0a0a0f;
+    --timer-button-border: rgba(255, 255, 255, .15);
+    background-color: var(--bg-color);
+}
+
+html,
+body {
+    font-family: var(--font-Poppins);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+    overflow: hidden;
+}
