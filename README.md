@@ -1,4 +1,4 @@
-#  Timer App
+<img width="1901" height="891" alt="image" src="https://github.com/user-attachments/assets/d7aa5730-b4a1-47dc-9371-5783dff84e96" />#  Timer App
 
 Une application de **chronomètre moderne** développée avec **React**. Elle permet de démarrer, mettre en pause et réinitialiser un timer, tout en affichant l'heure actuelle en temps réel (format français).
 
@@ -62,7 +62,8 @@ http://localhost:5173
 Ajoute ici une capture d'écran de ton projet :
 
 ```md
-![Aperçu du projet](./image.png)
+<img width="1901" height="891" alt="image" src="https://github.com/user-attachments/assets/6b38a885-fae9-4de5-91c0-c5951ce79107" />
+
 ```
 
 ## Utilisation
