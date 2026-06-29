@@ -56,15 +56,7 @@ L'application sera disponible sur :
 ```text
 http://localhost:5173
 ```
-
-## 📸 Aperçu
-
-Ajoute ici une capture d'écran de ton projet :
-
-```md
-<img width="1901" height="891" alt="image" src="https://github.com/user-attachments/assets/6b38a885-fae9-4de5-91c0-c5951ce79107" />
-
-```
+``
 
 ## Utilisation
 
